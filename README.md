@@ -6,7 +6,19 @@
 
 ## À propos
 
-Passionné de cybersécurité (2 ans d’admin système → reconversion SSI). 6 mois d’étude intensive : **100+ CTF résolus**, **10+ projets publiés**, participation active au Bug Bounty. Je cherche un poste **Junior Security Analyst / Pentester**.
+Passionné de cybersécurité, consultant SSI depuis 10/2025, dernièrement 3 ans de gestion de projets SSI.
+Reprise d'études supérieures CYBER de 2021 à 2025 : L2, L3, M1, M2, et Ingénieur), auparavant test startup (devApk), sur un fond de 10 ans d'admin/tech sys/réseaux.  
+
+*3 projets publiés** 
+Réalisation d'une attaque de type supercharging (sur superchargeur de véhicule éléctrique) par modèle IA non supervisé avec apprentisage, appels LLM et traiement du RAG. [07/2025] 
+Réalisation d'un système de détection de l'attaque d'overcharging qui permet d'alimenter un SIEM. [07/2025]
+Réalisation d'un application mobile favorisant la sécurité des victimes et des intervenants ainsi qu'un gain de temps, lors d'interventions de secours sur véhicules automobiles. Périmètre UE. [04/2016]  
+Ecriture d'un livre titré "Accouchement innopiné interhospitalier". [07/2008] 
+
+*10+ projets non publiés** 
+Convergence d'annuaires AD en un environnmeent durci à l'état de l'art (09/2025)
+
+**230+ Challenges de sécurité résolus**, participation active au Bug Bounty. Je cherche un poste **Junior Security Analyst / Pentester**.
 
 
 **Soft skills** 
