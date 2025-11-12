@@ -10,52 +10,70 @@ Passionné de cybersécurité (2 ans d’admin système → reconversion SSI). 6
 
 
 **Soft skills** 
-- Esprit d’analyse, car je comprend rapidement une alerte ou un code suspect.
-- Curiosité technique, car j'explore, teste, et cherche des vulnérabilités.
-- Résilience et patience, j'ai l'habitude d'investigations rapides et longues.
-- Esprit critique, car je ne m'arrête pas à la première hypothèse.
-- Travail en équipe, j'ai la capacité à gérer une équipe et des projets collaboratifs.
-- Pédagogue, je sais expliquer les risques aux non-techniques.
-- Méthodique et rigoureux par tableaux de bord, j'accentue une sécurité d'aujourd'hui et pour demain.
-- Éthique, je me tiens à respecter mon périmètre, la confidentialité et le cadre.
+- Esprit d’analyse                    (je comprend rapidement une alerte ou un code suspect).
+- Curiosité technique                 (j'explore, teste, et cherche des vulnérabilités).
+- Résilience et patience              (j'ai l'habitude d'investigations rapides et longues).
+- Esprit critique                     (je ne m'arrête pas à la première hypothèse).
+- Travail en équipe                   (j'ai la capacité à gérer une équipe et des projets collaboratifs).
+- Pédagogue                           (je sais expliquer les risques aux non-techniques).
+- Méthodique par tableaux de bord     (j'accentue une sécurité d'aujourd'hui et pour demain).
+- Éthique                             (je respecte mon périmètre, la confidentialité et le cadre).
 
+**Hard skills cybersécurité et cyberdéfense**
+Gouvernance et pilotage SSI
+- Pilotage sécurité projet            (intégration SSI dans tout le cycle de vie).
+- Gouvernance et espace de confiance  (protection de l’information dans les projets).
+- Préparation et accompagnement       (des équipes aux certifications SSI et programmes cyber).
+- Gestion des risques et impacts      (conformité, et analyses (de risques, des impacts, des menaces, des attaques) et de la rétention des données personnelles stockées).
+- Élaboration de documents            (cartographies fonct./app, modélisation des systèmes, cadrages, matrice des flux, PCAi, PRAi, manuels d’exploitation).
+- Gouvernance documentaire            (PGSSI, SMSI, PSSI, politiques de rétention, onboarding/offboarding, stockage, cahiers des charges).
+- Gestion de crise cyber              (management et conduite technique en incident, organisation d'exercice de gestion de crise cyber).
+- Supervision et réponse              (analyse SIEM/XDR/FW, investigation des alertes).
+- Sensibilisation et entraînement     (campagnes phishing, exercices de crise).
+- Audit et durcissement               (postes, serveurs, Active Directory).
+- Veille et renseignement             (threat intelligence, suivi vulnérabilités).
+- Architecture et documentation       (PSSI, SMSI, PGSSI, PCA/PRA, matrice des flux).
+- Déploiement sécurisé                (infrastructure durcies, stockage, sauvegardes, réseaux).
+- Administration                      (AD, Windows/Linux, réseau L2/L3, SD-WAN, VPN).
+- Développement sécurité              (Python, Bash, PS, SQL, JS, C/C++, Solidity).
+- R&D sécurité                        (cryptanalyse, analyse code, innovation SSI).
 
-**Hard skills cybersécurité** 
-- piloter la sécurité dans le cycle de vie des projets.
-- créer un espace de confiance pour la protection de l'information dans les projets.
-- comprendre la menace, manager des équipes opérationnelles et les conduire techniquement en situation de crise.
-- conduire les équipes pendant build et run liés aux incidents de sécurité, capitaliser sur ses expériences.
-- tenir le programme de sensibilisation cyber des collaborateurs (exercices de phishing et de gestion de crise).
-- préparer les équipes aux certifications sur le volet sécurité du SI et cyber.
-- analyser les risques ainsi que les impacts (par ex. sur les données personnelles), les menaces et les attaques.
-- évaluer la maturité à gérer une crise d'origine cyber, organiser les exercice de gestion de crise
-- auditer la sécurité d'un SI et de ses réseaux, appliquer les contre-mesures adaptées.
-- analyser les scénarios d'attaque dans SIEM/XDR/FW/systèmes/codes/binaires.
-- deployer des architectures (infrastructures fonctionnelles, de stockage, et de sauvegardes) sécurisées car durcies à l'état de l'art.
-- assurer le durcissement système des terminaux (Windows et Linux) et de l'annuaire active directory.
-- mettre en œuvre un service de veille et de renseignement et d'intelligence de la menace.
-- documenter et tenir à jour les politiques (PGSSI, SMSI, PSSI, rétention des données personnelles, onbording-outbording, stockage, CDC)
-- élaborer les cadrages, cahiers techniques, le document d'architecture technique avec matrice des flux, manuel d'exploitation, PCAi, PRAi.
-- participer à la R&D et aux opérations de recherche fondamentale en lien avec la SSI.
+Gestion de crise et continuité
+_ Gestion de crise cyber              (pilotage et conduite technique en incident, coordination des équipes).
+_ Organisation d’exercices            (cyber-attaque, perte de service, fuite de données).
+_ Évaluation de la maturité           (à gérer une crise d’origine cyber).
+_ Capitalisation post-incident        (retours d’expérience, amélioration continue).
 
-- administrer l'annuaire active directory, les postes et serveurs sous Windows et linux, les switch L2/L3 et routeurs/FW/SD-Wan.
-- languages : Python, PS, SQL, JS, bash, C, C++, HTML, Arduino, Solidity.
-- acquérir une expertise technique élevée sur des nouveaux sujets en approfondissant mes connaissances.
+Audit, supervision et réponse
+_ Supervision et détection            (analyse SIEM/XDR/FW, investigation des alertes).
+_ Audit de sécurité                   (application des contre-mesures adaptées).
+_ Analyse des scénarios d’attaque     (corrélation logs systèmes, codes, binaires).
+_ Sensibilisation et entraînement     (campagnes phishing, simulations, exercices de réponse).
+_ Mise en œuvre d’une veille          (threat intelligence, vulnérabilités).
 
-**Hard skills cyberdefense**
-- forensic à but de comprendre la situation, de connaître le périmètre impacté, et de récupérer des preuves. 
-- recherches stéganographiques (images, vidéos, audio), analyse/modélisation des chemins d'attaque, cryptanalyse, analyse de code jusqu'à l'assembleur. 
-- develloper des outils (indicateurs, détection d'anomalies par IA crée par ML).
+Architecture et durcissement
+_ Déploiement sécurisé                (infrastructures durcies à l’état de l’art : stockage, sauvegardes, réseaux).
+_ Durcissement système des terminaux  (Windows, Linux) et de l’annuaire Active Directory.
+_ Administration et exploitation      (AD, postes et serveurs Windows/Linux, switchs L2/L3, routeurs/FW/SD-WAN, VPN).
+_ Participation à la R&D et recherche fondamentale en lien avec la SSI.
 
-**Outils**
+Développement et automatisation
+_ Développement sécurité (Python, Bash, PowerShell, SQL, JavaScript, C/C++, HTML, Arduino, Solidity).
+_ Automatisation de tâches de sécurité (scripts, outils, intégration CI/CD).
+_ Conception d’outils d’analyse et de détection (indicateurs, IA/ML pour anomalies).
+_ Acquisition continue de compétences techniques (montée en expertise sur nouveaux sujets).
 
+Cyberdéfense et investigation
+_ Forensic (identifier le périmètre impacté, récupérer et préserver les preuves).
+_ Recherches stéganographiques (images, vidéos, audio) et modélisation des chemins d’attaque.
+_ Cryptanalyse, analyse de code et rétro-ingénierie jusqu’à l’assembleur.
+_ Threat hunting et corrélation dans SIEM/XDR (ELK, Splunk, Graylog, OSSIM).
 
-**Solutions**
-ESET, Trend, Fortinet (FMG & FA), FortiGate, FortiClient, Cisco, Dell, PFsense, OpenVPN.
-TeamsPhone, VOIP, IPBX Xivo, Softphone Zoiper. vCenter, Veeam backup, vSphere Esxi,
-Hyper-V, vSAN, Docker, Ansible. PRTG, Nagios, Cacti. Splunk, Graylog, OSSIM, ELK, Syslog, Snort, Squid et DsnSec. 
-PowerBI.
-
+Solutions et Outils
+_ Sécurité & Réseaux : ESET · Trend Micro · Fortinet (FMG, FA, FortiGate, FortiClient) · Cisco · Dell · PFsense · OpenVPN
+_ Virtualisation & DevOps : vCenter · Veeam Backup · vSphere ESXi · Hyper-V · vSAN · Docker · Ansible
+_ Supervision & Logs : PRTG · Nagios · Cacti · Splunk · Graylog · OSSIM · ELK · Syslog · Snort · Squid · DNSsec
+_ Collaboration & Reporting : TeamsPhone · VOIP/IPBX Xivo · Softphone Zoiper · PowerBI
 
 
 
@@ -64,14 +82,18 @@ PowerBI.
 ## Plan du dépôt « Portfolio‑SSI »
 
 ```
-Portfolio-SSI/
-├─ README.md                # Page d’accueil (ce fichier)
+Portfolio/
+├─ README.md                # Page d’accueil
+├─ hard-skills
+├─ soft-skills
+├─ expérience
+├─ formation
 ├─ projets/
-│  ├─ web-owasp-lab/        # Projet 1 (ex : lab OWASP)
+│  ├─ Projet 1 (ex : lab OWASP)
 │  ├─ ad-attack-defense/    # Projet 2 (ex : AD attack path)
 │  ├─ network-threat-hunt/  # Projet 3 (ex : Hunt ELK)
 │  └─ ...
-├─ root-me/
+├─ challenges de sécurité réalisés/
 │  ├─ writeups/             # Vos write-ups (un par challenge)
 │  └─ index.md              # Sommaire + stats
 └─ assets/                  # images, schémas, captures
