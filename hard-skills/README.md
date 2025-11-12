@@ -24,7 +24,7 @@ _ Révision des PGSSI, PGCC, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cad
 
 **Gestion de crise cyber**  
 _ En amont, évaluation de la maturité, conduite du changement, propositions d'orientations cyber.  
-_ Conception des documents et d'une infrastructure fonctionnelle, maintenus hors ligne.  
+_ Conception des documents et d'une infrastructure fonctionnelle maintenus hors ligne.  
 _ Pilotage de la sensibilisation et des exercices de gestion de crises d'origine cyber (gouvernance).  
 _ Pendant, propose/prends décisons, déclare aux autorités, pilote les actions des équipes CYBER/IT/DSI.  
 _ Analyses forensic, chemins d'attaque à corriger, fixer le périmètre compromis.  
