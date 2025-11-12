@@ -14,7 +14,9 @@
 
 **Esprit critique** — je ne m’arrête pas à la première hypothèse.  
 
-**Travail en équipe** — je sais gérer une équipe et des projets collaboratifs.  
+**Travail en équipe** — je sais gérer une équipe et des projets collaboratifs. 
+
+**Relation de confiance** - je travaille discretement et en respectant le cadre.
 
 **Pédagogue** — je sais expliquer les risques aux non-techniques.  
 
