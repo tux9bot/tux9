@@ -23,18 +23,14 @@ _ Cartographies fonctionnelles et applicatives, modélisation des systèmes.
 _ Révision des PGSSI, PGCC, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cadrages, CDC, contrats SLA. 
 
 **Gestion de crise cyber**  
-#Avant  
-_Evaluation de la maturité, management de la conduite du changement, création/organisation/retex d’exercices de gestion de crise. 
+_ En amont, évaluation de la maturité, management de la conduite du changement, création/organisation/retex d’exercices de gestion de crise. 
 _ Anticipation par pilotage de la sensibilisation et des exercices de gestion de crises d'origine cyber (gouvernance). 
-#Pendant  
-_ Propose la prise de décisons, pilotage des actions d'équipes (analystes cyber, administrateurs et techniciens systèmes & réseaux).  
+_ Pendant, propose la prise de décisons, pilotage des actions d'équipes (analystes cyber, administrateurs et techniciens systèmes & réseaux).  
 _ Analyses forensic (analyse des chemins d'attaque à corriger, fixe le périmètre compromis, analyse la mémoire volatile et stockée).  
 _ Apporte les éléments amenant à la sortie de crise.  
-#Sortie   
-_ Vérifications d'usage
-_ Construction et apport du retex à chaud.  
-#Après  
-_ Construction et apport du retex à froid.  
+_ En sortie, vérifie les systèmes pour éviter la survenue d'une sur-crise.  
+_ Construction et présentation du retex à chaud.  
+_ Après, construction et présentation du retex à froid, capitalisation.  
 
 **Supervision et réponse**  
 _ analyse d’événements de sécurité dans SIEM, XDR, firewalls et investigation des alertes.  
