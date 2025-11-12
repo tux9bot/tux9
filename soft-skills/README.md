@@ -20,8 +20,11 @@
 &nbsp;&nbsp;sont indispensables et j'apprécie amener leurs justifications. Pédagogue, je sais expliquer les risques aux non-techniques.  
 
 **Esprit d’analyse et critique** — je comprends rapidement une alerte ou un code suspect, je suis curieux de la technicité employée alors j’explore,  
-teste, et cherche des vulnérabilités. Je suis résilient et patient, surement faute à avoior l’habitude d’investigations rapides comme longues, je ne m’arrête pas à la première hypothèse.  
+&nbsp;&nbsp;teste, et cherche des vulnérabilités. Je suis résilient et patient, surement faute à avoior l’habitude d’investigations rapides comme longues, 
+&nbsp;&nbsp;je ne m’arrête pas à la première hypothèse.  
 
-**Relation de confiance** - je suis calme et travaille discretement en respectant le cadre. Éthique je suis. Aussi, je respecte mon périmètre, la confidentialité et le cadre dans lequel j'évolue. Méthodique, je m'appuie sur mes tableaux de bords tournés vers une sécurité d’aujourd’hui et pour demain.    
+**Relation de confiance** - je travaille discretement en respectant le cadre. Éthique je suis. Aussi, je respecte mon périmètre, 
+&nbsp;&nbsp; ainsi que la confidentialité et le cadre dans lequel j'évolue. 
+&nbsp;&nbsp;Méthodique et calme, je m'appuie sur mes tableaux de bords tournés vers une sécurité d’aujourd’hui et pour demain.    
 
 
