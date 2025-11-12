@@ -3,14 +3,14 @@
 ### Gouvernance et Pilotage SSI
 
 **Pilotage sécurité**  
-_ Participation aux propositions de choix de solutions.  
-_ Fait état de la sécurité et relaye les alertes au travers de la chaine de responsabilités mise en place.   
-_ Révision du cadre commun SSI et de la chartre   
-_ Révision des plans de sauvegarde (données utilisateurs et applicatives, données logiciels),   
-&nbsp;&nbsp; et validation et diffusion du plan de secours.   
+_ Participation aux propositions de choix de solutions.   
+_ Fait état de la sécurité et relaye les alertes au travers de la chaine de responsabilités mise en place.    
+_ Révision du cadre commun SSI, de la chartre et du regsitre des PSSI publiées.   
+_ Révision des plans de sauvegarde (données utilisateurs et applicatives, données logiciels).     
+&nbsp;&nbsp;Validation et diffusion du plan de secours et du plan de sécurité SI par sphère.   
 _ Protection de l’information au sein des projets et coordination entre les parties prenantes.  
 _ Intégration de la SSI dans tout le cycle de vie des projets.  
-_ Suivi de projets, gestion administrtive et financiere de projets.     
+_ Suivi de projets, gestion administrative et financière de projets.     
 _ Suivi du schéma directeur SSI et du carnet de sécurité du SI fourni aux correspondants de sécurité.  
 
 **Animation et contrôle**  
@@ -27,7 +27,7 @@ _ Classer les informations par niveau de confidentialité (NC-Non_classifié, C1
 _ Cartographies fonctionnelles et applicatives, modélisation des systèmes.  
 
 **Gouvernance documentaire**    
-_ Révision des PGSSI, PGCC, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cadrages, CDC, contrats SLA et de la charte. 
+_ Révision des SDSSI, CCSSI, livre blanc de protection physique des SI, PGSSI, PGCC, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cadrages, CDC, contrats SLA et de la charte. 
 
 **Gestion de crise cyber**  
 _ En amont, évaluation de la maturité, conduite du changement, propositions d'orientations cyber/PRIS/assurance,  
@@ -40,11 +40,9 @@ _ En sortie, vérifie les systèmes pour éviter la sur-crise. Forensic approfon
 &nbsp;&nbsp; construction et présentation du retex à chaud.  
 _ En fin, construction et présentation du retex à froid, capitalisation, revue des processus.  
 
-**Supervision et réponse**  
-_ Analyse d’événements de sécurité dans SIEM, XDR, firewalls et investigation des alertes.  
-
-**Audits et durcissement**  
-_ Audit de sécurité et application des contre-mesures adaptées, sur annuaire Active Directory, sur terminaux (systèmes Windows et Linux). 
+**Techniques pratiques**  
+_ Je sais lire la supervision et prendre part aux actions de réponse à incidents, en analysantles événements de sécurité dans SIEM, XDR, firewalls afin d'investiger sur les comportements et alertes.    
+_ Je sais réaliser la totalité des audits de sécurité d'usage, et maîtrise l'application des contre-mesures adaptées, cela sur un annuaire Active Directory comme sur les systèmes terminaux (Windows et   &nbsp;&nbsp; Linux), mais aussi sur les équipements réseau. Je sais assurer le fort durcissement sur un annuaire Active Directory, sur les systèmes terminaux aisni que sur les infrastructures de sauvegardes.   
 
 **Veille et renseignement**  
 _ Mise en place d’un service de threat intelligence et du suivi des vulnérabilités.  
