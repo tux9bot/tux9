@@ -1,6 +1,6 @@
-# RSSI | Directeur cybesécurité | Manager SOC | Architecte sécurité |
+# Ingénieur cybersécurité | 
 
-> **Objectif** : Présenter clairement mes projets SSI (offensif/défensif) et mes réussites Root‑Me. Ce modèle est prêt à copier‑coller dans votre README de profil ou dans un dépôt « Portfolio‑SSI ».
+> **Objectif** : mes projets SSI sont d'assurer les missions de RSSI | DSI | Directeur cybersécurité-Cyberdéfense | Manager SOC | Architecte sécurité expert | Chef de projets SSI.
 
 ---
 
@@ -8,7 +8,30 @@
 
 Passionné de cybersécurité (2 ans d’admin système → reconversion SSI). 6 mois d’étude intensive : **100+ CTF résolus**, **10+ projets publiés**, participation active au Bug Bounty. Je cherche un poste **Junior Security Analyst / Pentester**.
 
-**Stack clé** : OWASP Top 10 · Nmap · Wireshark · Burp Suite · Metasploit · Python · Bash · SQL · Linux/Kali · Windows/AD · ELK · Splunk · Docker/K8s (notions)
+**Hard skillss** 
+- comprendre la menace, manager des équipes opérationnelles et les conduire techniquement en situation de crise.
+- conduire les équipes pendant build et run liés aux incidents de sécurité, capitaliser sur ses expériences.
+- tenir le programme de sensibilisation cyber des collaborateurs (exercices de phishing et de gestion de crise)
+- préparer les équipes aux certifications sur le volet sécurité du SI et cyber.
+- analyser les risques ainsi que les impacts (par ex. sur les données personnelles), les menaces et les attaques.
+- évaluer la maturité à gérer une crise d'origine cyber, organiser les exercice de gestion de crise
+- auditer la sécurité d'un SI en constante évolution, appliquer les contre-mesures adaptées.
+- deployer des architectures (fonctionnelles, de stockage, et de sauvegardes) sécurisées car durcies à l'état de l'art.
+- assurer le durcissement système des terminaux (Windows et Linux) et de l'annuaire active directory (tiering, cycle d'amélioration continu SSI).
+- mettre en œuvre un service de veille et de renseignement et d'intelligence de la menace (CTI).
+- acquérir une expertise technique élevée en approfondissant mes connaissances.
+- participer aux opérations de recherche fondamentale sur fond de SSI.
+
+**Soft skills** 
+- Esprit d’analyse, car je comprend rapidement une alerte ou un code suspect.
+- Curiosité technique, car j'explore, teste, et cherche des vulnérabilités.
+- Résilience et patience, j'ai l'habitude d'investigations rapides et longues.
+Esprit critique → ne pas se fier à la première hypothèse.
+Travail en équipe → SOC, pentest, projets collaboratifs
+Pédagogie / vulgarisation → expliquer les risques aux non-techniques
+Éthique → respecter la confidentialité, les chartes de test, la loi
+
+**Outils**
 
 ---
 
