@@ -13,8 +13,8 @@ Evènements marquants
 &nbsp;&nbsp;Intervention sur feux de forêt/brousse  
 &nbsp;&nbsp;Intervention inondation Sorgues, Saint-Affique 2014  
 &nbsp;&nbsp;Secours piste sur circuit motocross championnat de France, La Capelle-Marival 2013-2014  
-&nbsp;&nbsp;Secours Féria pentecote, Nimes 2006  
-&nbsp;&nbsp;Secours Grand-prix de France F1, Magny-Cours 2006  
+&nbsp;&nbsp;Secours féria pentecote, Nimes 2006  
+&nbsp;&nbsp;Secours grand-prix de France F1, Magny-Cours 2006  
 &nbsp;&nbsp;Secours piste sur circuit des 24H du Mans 2005  
 &nbsp;&nbsp;Accouchements inopinés extra-hospitalier  
 &nbsp;&nbsp;Réseaux de secours, secteurs BSPP 1999-2004, 2008-2010  
