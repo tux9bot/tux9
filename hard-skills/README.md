@@ -13,18 +13,19 @@ _ Protection de l’information au sein des projets et coordination entre les pa
 **Préparation et accompagnement**  
 _ Formation des équipes vers les certifications SSI et la mise en œuvre de programmes cyber.  
 
-**Gestion des risques et impacts**  
-_ Conformité, analyses des risques, des menaces, des attaques et d'impacts de rétention des DP.  
+**Gestion des risques et de la conformité**  
+_ Analyses des risques (EBIOS Risk Manager et Mehari), analyse des menaces, analyse des attaques.  
+_ Analyse d'impacts liées à la rétention des données personnelles (CNIL).    
 
 **Documentation technique**  
-_ Cartographies fonctionnelles et applicatives, modélisation des systèmes.
+_ Cartographies fonctionnelles et applicatives, modélisation des systèmes.  
 
 **Gouvernance documentaire**    
 _ Révision des PGSSI, PGCC, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cadrages, CDC, contrats SLA. 
 
 **Gestion de crise cyber**  
 _ En amont, évaluation de la maturité, conduite du changement, propositions d'orientations cyber/PRIS/assurance,  
-&nbsp;&nbsp; conception des documents et d'une infrastructure fonctionnelle maintenus hors ligne,  
+&nbsp;&nbsp; conception des documents de déclenchement, infrastructure fonctionnelle maintenus hors ligne,  
 &nbsp;&nbsp; pilotage de la sensibilisation et des exercices de gestion de crises d'origine cyber (gouvernance).  
 _ Pendant, propose/prends décisons, déclare aux autorités, pilote les actions des équipes CYBER/IT/DSI,  
 &nbsp;&nbsp; analyses forensic, chemins d'attaque à corriger, fixer le périmètre compromis,  
