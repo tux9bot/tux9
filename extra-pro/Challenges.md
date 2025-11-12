@@ -9,7 +9,7 @@
 
 > **Mise en avant** : listez **5–10** challenges représentatifs avec *le skill appris* et *la technique clé*. Liez vos write‑ups.
 
-| Catégorie  | Challenge                    | Compétence apprise | Technique clé           | Write‑up                                                                      |
+| Catégorie  | Challenge                    | Compétence révisée | Technique clé           | Accès                                                                     |
 | ---------- | ---------------------------- | ------------------ | ----------------------- | ----------------------------------------------------------------------------- |
 | Web‑Server | XXE – Simple                 | XXE & exfiltration | Payload external entity | [/root-me/writeups/xxe-simple.md](./root-me/writeups/xxe-simple.md)           |
 | App‑Script | NodeJS – Prototype Pollution | Audit JS runtime   | Gadget chain → RCE      | [/root-me/writeups/proto-pollution.md](./root-me/writeups/proto-pollution.md) |
