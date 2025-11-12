@@ -14,7 +14,7 @@
   Web-Client :   
   Web-Serveur :  
 
-> **Mise en avant** : listez **5–10** challenges représentatifs avec *le skill appris* et *la technique clé*. Liez vos write‑ups.
+> **Voici ci-dessous quelques challenges représentatifs.
 
 | Catégorie  | Challenge                    | Compétence révisée | Technique clé           | Accès                                                                     |
 | ---------- | ---------------------------- | ------------------ | ----------------------- | ----------------------------------------------------------------------------- |
