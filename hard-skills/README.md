@@ -18,8 +18,10 @@ _ Animation de séances de sensibilisation/formation des équipes sur la SSI pr�
 _ Contrôle des correspondants SSI (référents) présents sur les sites détenants la délégation SSI qui assurent la mise en oeuvre de la sécurité.  
 
 **Gestion des risques et de la conformité**  
-_ Analyses des risques (EBIOS Risk Manager et Mehari), analyse des menaces, analyse des attaques.  
-_ Analyse d'impacts liées à la rétention des données personnelles (CNIL).    
+_ Déterminer et analyser les risques (EBIOS Risk Manager et Mehari), analyser les menaces et les attaques ainsi que la faisabilité.
+_ Analyser les impacts liées à la rétention des données personnelles (CNIL). 
+_ Classer les données par critères de sensiblitité (disponibilité, intégrité, confidentialité, traçabilité).  
+_ Classer les informations par niveau de confidentialité (NC-Non_classifié, C1-Usage_Interne, C2-Diffusion_restreinte, C3-Secret).  
 
 **Documentation technique**  
 _ Cartographies fonctionnelles et applicatives, modélisation des systèmes.  
