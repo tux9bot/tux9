@@ -2,7 +2,7 @@
 
 ### Gouvernance et Pilotage SSI
 
-**Pilotage sécurité projet** — intégration de la SSI dans tout le cycle de vie des projets.  
+**Pilotage sécurité projet**       — intégration de la SSI dans tout le cycle de vie des projets.  
 
 **Gouvernance et espace de confiance** — protection de l’information au sein des projets et coordination entre les parties prenantes.  
 
