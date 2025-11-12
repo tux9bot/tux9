@@ -17,7 +17,7 @@ Participations marquantes
 &nbsp;&nbsp;Secours féria pentecote, Nimes 2006  
 &nbsp;&nbsp;Secours grand-prix de France F1, Magny-Cours 2006  
 &nbsp;&nbsp;Secours piste sur circuit des 24H, Le Mans 2005  
-&nbsp;&nbsp;Accouchements inopinés extra-hospitalier   
+&nbsp;&nbsp;Accouchement inopiné extra-hospitalier, Eaubonne 2003   
 &nbsp;&nbsp;Réseaux de secours, secteurs BSPP 1999-2004, 2008-2010  
 &nbsp;&nbsp;Secours au stade de France, Saint-Denis 1999-2004   
 &nbsp;&nbsp;Intervention braquage banque GIGN, Cergy 2001    
