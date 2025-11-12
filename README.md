@@ -1,6 +1,6 @@
-# Ingénieur cybersécurité | 
+# Ingénieur cybersécurité 
 
-> **Objectif** : mes projets SSI sont d'assurer les missions de RSSI | DSI | Directeur cybersécurité-Cyberdéfense | Manager SOC | Architecte sécurité expert | Chef de projets SSI.
+> **Objectif** : assurer les missions de RSSI | Directeur cybersécurité-Cyberdéfense | Manager SOC | Architecte sécurité expert | Chef de projets SSI.
 
 ---
 
