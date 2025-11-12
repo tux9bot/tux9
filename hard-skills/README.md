@@ -45,6 +45,7 @@ _ Active Directory, Windows, Linux, des SW L2/L3, FW (FortiManager, FortiAnalyse
 _ Maîtrise de Python, Bash, PowerShell, SQL, JavaScript, C/C++ et Solidity pour l’automatisation, l’analyse et la détection.  
 
 **R&D sécurité**  
-_ Participation à la recherche en cryptanalyse, analyse de code et innovation SSI.  
+_ Expert en chiffrement, en cryptanalyse (binaires, codes).  
+_ Apport de regards et de propositions innovantes en SSI.  
 
 
