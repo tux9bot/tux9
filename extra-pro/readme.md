@@ -16,7 +16,7 @@ Evènements marquants
 &nbsp;&nbsp;Secours Féria pentecote, Nimes 2006  
 &nbsp;&nbsp;Secours Grand-prix de France F1, Magny-Cours 2006  
 &nbsp;&nbsp;Secours piste sur circuit des 24H du Mans 2005  
-&nbsp;&nbsp;Accouchements innopinés 
+&nbsp;&nbsp;Accouchements inopinés extra-hospitalier
 &nbsp;&nbsp;Réseaux de secours, secteurs BSPP 1999-2004, 2008-2010  
 &nbsp;&nbsp;Secours Stade de France 1999-2004  
 &nbsp;&nbsp;Intervention Condorde, Gonesse 2000  
