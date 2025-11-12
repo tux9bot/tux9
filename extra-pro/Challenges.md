@@ -1,11 +1,10 @@
 
 ## Challenges SSI
 
-### Statut & profils
-
 * **Profil Root‑Me** : *tux9*
-* **Total résolus** : **XXX**
-  
+* 
+* **Total challenges résolus** : **XXX**
+*
 * Nombre de challenges flag par catégories :
     
   App‑Script :   
