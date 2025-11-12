@@ -25,7 +25,7 @@
 
 * **Esprit d’analyse et critique**     
 &nbsp;&nbsp;Je comprends rapidement une alerte ou un code suspect, je suis curieux de la technicité employée alors j’explore,         
-&nbsp;&nbsp;teste, et cherche des vulnérabilités. Je suis résilient et patient, surement faute à avoior l’habitude d’investigations rapides comme longues,    
+&nbsp;&nbsp;teste, et cherche des vulnérabilités. Je suis résilient et patient, faute à avoir l’habitude d’investigations rapides comme longues,        
 &nbsp;&nbsp;je ne m’arrête pas à la première hypothèse.  
 
 * **Relation de confiance**    
