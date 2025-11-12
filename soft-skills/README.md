@@ -30,7 +30,8 @@
 
 * **Relation de confiance**    
 &nbsp;&nbsp;Je travaille discretement en respectant le cadre. Malgré le caractère assurément offensif de certaines de mes pratiques,    
-&nbsp;&nbsp;éthique je suis et resterai. Je respecte mon périmètre, la confidentialité et le cadre dans lequel j'évolue.           
+&nbsp;&nbsp;éthique je suis et resterai. Je respecte mon périmètre, la confidentialité et le cadre dans lequel j'évolue. Si jai à définir ou à révisier les
+&nbsp;&nbsp;limites de la zone de confiance, j'adresse alors ce recencemet aux directions opérationnelles nommés par la personne juridiquement responsable.           
 &nbsp;&nbsp;Méthodique et calme, je m'appuie sur mes tableaux de bords tournés vers une sécurité d’aujourd’hui et pour demain.          
 
 
