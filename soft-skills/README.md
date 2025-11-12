@@ -12,7 +12,7 @@
 &nbsp;&nbsp;Je renseigne le dossier de sécurité des projets en spécifiant les besoins de sécurité puis mesure   
 &nbsp;&nbsp;l'impact des projets sur l'activité et en extrait les risques ainsi que les solutions à mettre mettre en place,  
 &nbsp;&nbsp;puis j'annonce les risques non couverts. 
-&nbsp;&nbsp;J'ai pour habitude de viser le cadre méthodologique "Sécurité et développement" composé de la cible de sécurité,         
+&nbsp;&nbsp;J'ai pour habitude de viser le cadre méthodologique "Sécurité et développement" composé de la cible de sécurité,              
 &nbsp;&nbsp;du plan d'assurance de sécurité, du dossier de tests de sécurité, du dossier d'analyses de vulnérabilités et  
 &nbsp;&nbsp;du manuel de sécurité des utilisateurs et administrateurs. J'apprécie lire les contrats de service externes,  
 &nbsp;&nbsp;pour prendre connaissance des informations telles que les conditions de remontées en cas d'incident, les plages  
