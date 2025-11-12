@@ -1,6 +1,6 @@
 # Ingénieur cybersécurité 
 
-> **Objectif** : assurer les missions de RSSI | Directeur cyber | Manager SOC | Architecte sécurité expert | Chef de projets SSI.
+> **Objectif** : assurer les missions de RSSI | Directeur cyber | Manager SOC.
 
 ---
 
