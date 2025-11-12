@@ -31,7 +31,7 @@ _ Pendant, propose/prends décisons, déclare aux autorités, pilote les actions
 &nbsp;&nbsp; communique et apporte les éléments amenant à la sortie de crise.  
 _ En sortie, vérifie les systèmes pour éviter la sur-crise. Forensic approfondit (analyses mémoires/disques).       
 &nbsp;&nbsp; construction et présentation du retex à chaud.  
-_ Après, construction et présentation du retex à froid, capitalisation.  
+_ En fin, construction et présentation du retex à froid, capitalisation, revue des processus.  
 
 **Supervision et réponse**  
 _ analyse d’événements de sécurité dans SIEM, XDR, firewalls et investigation des alertes.  
