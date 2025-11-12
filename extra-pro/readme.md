@@ -19,6 +19,6 @@ Evènements marquants
 &nbsp;&nbsp;Accouchements inopinés extra-hospitalier  
 &nbsp;&nbsp;Réseaux de secours, secteurs BSPP 1999-2004, 2008-2010  
 &nbsp;&nbsp;Secours au stade de France 1999-2004   
-&nbsp;&nbsp;Intervention Braquage banque , Cergy 2001    
+&nbsp;&nbsp;Intervention Braquage banque GIGN, Cergy 2001    
 &nbsp;&nbsp;Intervention Condorde, Gonesse 2000  
 &nbsp;&nbsp;Intervention inondation Oise, Auvers/Oise 1999  
