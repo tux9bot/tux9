@@ -25,15 +25,7 @@ Reprise d'études supérieures CYBER de 2021 à 2025 : L2, L3, M1, M2, et Ingén
 
 **230+ Challenges de sécurité résolus**, participation active au Bug Bounty.
 
-** passif secouriste**
-Sergent SPV SDIS12 2009-2020
-Sapeur  SPV SDIS95 1996-2004
-Chef d'intervention CRF95-CRF75-CRF12-CRF15-ADPC46 2005-2017
-Directeur CRF95 Pontoise 2000-2002
-Equipier CRF95-CRF75 1999-2007
-Jeune SPV SDIS95 Osny 1991-1995
-
-
+** passif secouriste 1991-2020**
 
 **Hard skills cybersécurité et cyberdéfense**
 Gouvernance et pilotage SSI
