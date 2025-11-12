@@ -3,7 +3,7 @@
 ### Gouvernance et Pilotage SSI
 
 **Pilotage sécurité projets**  
-&nbsp;&nbsp; Participation aux proposition des choix de solutions.   
+_ Participation aux proposition des choix de solutions.   
 _ Intégration de la SSI dans tout le cycle de vie des projets.  
 _ Suivi de projets, gestion administrtive et financiere de projets.   
 
