@@ -20,7 +20,7 @@
 
 * **Travail en équipe**    
 &nbsp;&nbsp;J'apprécie participer à des projets collaboratifs et appliquer des principes précis en matière de gestion des habilitations,           
-&nbsp;&nbsp; comme journaliser systématiquement les actions des administrateurs et maîtriser l'usage d'outils d'inverstigation, car cela         
+&nbsp;&nbsp;comme journaliser systématiquement les actions des administrateurs et maîtriser l'usage d'outils d'inverstigation, car cela         
 &nbsp;&nbsp;est indispensable, aussi j'apprécie amener leurs justifications. Pédagogue, j'arrive à expliquer les suptilités de la cyber aux non-techniques et non-initiés.       
 
 * **Esprit d’analyse et critique**     
