@@ -5,7 +5,8 @@
 **Pilotage sécurité projet**  
 Intégration de la SSI dans tout le cycle de vie des projets.  
 
-**Gouvernance et espace de confiance** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – protection de l’information au sein des projets et coordination entre les parties prenantes.  
+**Gouvernance et espace de confiance**  
+protection de l’information au sein des projets et coordination entre les parties prenantes.  
 
 **Préparation et accompagnement** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – formation des équipes vers les certifications SSI et la mise en œuvre de programmes cyber.  
 
