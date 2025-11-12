@@ -2,18 +2,20 @@
 
 ### Gouvernance et Pilotage SSI
 
-**Pilotage sécurité projets**  
-_ Participation aux proposition des choix de solutions.   
-_ Intégration de la SSI dans tout le cycle de vie des projets.  
-_ Suivi de projets, gestion administrtive et financiere de projets.   
-_ Révision du plan de sauvegarde (données utilisateurs et applicatives, données logiciels).
-_ Révission, validation et diffusion du plan de secours.
-
-**Gouvernance et espace de confiance**  
+**Pilotage sécurité**  
+_ Participation aux propositions de choix de solutions.  
+_ Fait état de la sécurité et relaye les alertes au travers de la chaine de responsabilités mise en place.   
+_ Révision du cadre commun SSI et de la chartre   
+_ Révision des plans de sauvegarde (données utilisateurs et applicatives, données logiciels),   
+&nbsp;&nbsp; et validation et diffusion du plan de secours.   
 _ Protection de l’information au sein des projets et coordination entre les parties prenantes.  
+_ Intégration de la SSI dans tout le cycle de vie des projets.  
+_ Suivi de projets, gestion administrtive et financiere de projets.     
+_ Suivi du schéma directeur SSI et du carnet de sécurité du SI fourni aux correspondants de sécurité.  
 
-**Préparation et accompagnement**  
-_ Formation des équipes vers les certifications SSI et la mise en œuvre de programmes cyber.  
+**Animation et contrôle**  
+_ Animation de séances de sensibilisation/formation des équipes sur la SSI préparer les certifications du programme cyber.  
+_ Contrôle des correspondants SSI (référents) présents sur les sites détenants la délégation SSI qui assurent la mise en oeuvre de la sécurité.  
 
 **Gestion des risques et de la conformité**  
 _ Analyses des risques (EBIOS Risk Manager et Mehari), analyse des menaces, analyse des attaques.  
@@ -23,7 +25,7 @@ _ Analyse d'impacts liées à la rétention des données personnelles (CNIL).
 _ Cartographies fonctionnelles et applicatives, modélisation des systèmes.  
 
 **Gouvernance documentaire**    
-_ Révision des PGSSI, PGCC, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cadrages, CDC, contrats SLA. 
+_ Révision des PGSSI, PGCC, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cadrages, CDC, contrats SLA et de la charte. 
 
 **Gestion de crise cyber**  
 _ En amont, évaluation de la maturité, conduite du changement, propositions d'orientations cyber/PRIS/assurance,  
