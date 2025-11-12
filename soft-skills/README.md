@@ -7,7 +7,8 @@
 **Vision stratégique et gouvernance** - je lie la technique à la gouvernance et sur la documentation (PSSI) et la conformité.  
 
 **Pilotage de la sécurité** - je renseigne le dossier de sécurité des projets en spécifiant les besoins de sécurité puis mesure   
-&nbsp;&nbsp;l'impact des projets sur l'activité et en extrait les risques ainsi que les solutions à mettre mettre en place, puis j'annonce les risques non couverts.  
+&nbsp;&nbsp;l'impact des projets sur l'activité et en extrait les risques ainsi que les solutions à mettre mettre en place,  
+&nbsp;&nbsp;puis j'annonce les risques non couverts.  
 
 **Esprit d’analyse** — je comprends rapidement une alerte ou un code suspect.  
 
