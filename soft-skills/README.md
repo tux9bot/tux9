@@ -29,8 +29,8 @@
 &nbsp;&nbsp;je ne m’arrête pas à la première hypothèse.  
 
 * **Relation de confiance**    
-&nbsp;&nbsp;Je travaille discretement en respectant le cadre. Malgré le caractère assurément offensif de certaines de mes pratiques, éthique je suis et resterai.
-&nbsp;&nbsp;Je respecte mon périmètre, la confidentialité et le cadre dans lequel j'évolue.      
+&nbsp;&nbsp;Je travaille discretement en respectant le cadre. Malgré le caractère assurément offensif de certaines de mes pratiques,    
+&nbsp;&nbsp;éthique je suis et resterai. Je respecte mon périmètre, la confidentialité et le cadre dans lequel j'évolue.           
 &nbsp;&nbsp;Méthodique et calme, je m'appuie sur mes tableaux de bords tournés vers une sécurité d’aujourd’hui et pour demain.          
 
 
