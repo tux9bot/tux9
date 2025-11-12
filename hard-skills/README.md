@@ -25,7 +25,7 @@ _ Révision des PGSSI, PGCC, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cad
 **Gestion de crise cyber**  
 _ Evaluation de la maturité, management de la conduite du changement, création/organisation/retex d’exercices de gestion de crise.  
 _ Expert en forensic qui analyse les chemins d'attaque à corriger, qui collecte le périmètre compromis et qui analyse la mémoire volatile et stockée.    
-_ Anticipation par le pilotage des campagnes de sensibilisation (tous) et les exercices de gestion de crises d'origine cyber (gouvernance).  
+_ Anticipation par pilotage de la sensibilisation et des exercices de gestion de crises d'origine cyber (gouvernance).  
 
 **Supervision et réponse**  
 _ analyse d’événements de sécurité dans SIEM, XDR, firewalls et investigation des alertes.  
