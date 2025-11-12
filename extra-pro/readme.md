@@ -18,7 +18,7 @@ Evènements marquants
 &nbsp;&nbsp;Secours piste sur circuit des 24H du Mans 2005  
 &nbsp;&nbsp;Accouchements inopinés extra-hospitalier  
 &nbsp;&nbsp;Réseaux de secours, secteurs BSPP 1999-2004, 2008-2010  
-&nbsp;&nbsp;Secours au stade de France 1999-2004 
+&nbsp;&nbsp;Secours au stade de France 1999-2004   
 &nbsp;&nbsp;Intervention Braquage banque 2001, Cergy  
 &nbsp;&nbsp;Intervention Condorde, Gonesse 2000  
 &nbsp;&nbsp;Intervention inondation Oise, Auvers/Oise 1999  
