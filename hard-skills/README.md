@@ -3,7 +3,7 @@
 ### Gouvernance et Pilotage SSI
 
 **Pilotage sécurité projets**  
-_ Participation aux proposition des choix de solutions.   
+&nbsp;&nbsp; Participation aux proposition des choix de solutions.   
 _ Intégration de la SSI dans tout le cycle de vie des projets.  
 _ Suivi de projets, gestion administrtive et financiere de projets.   
 
@@ -34,13 +34,13 @@ _ En sortie, vérifie les systèmes pour éviter la sur-crise. Forensic approfon
 _ En fin, construction et présentation du retex à froid, capitalisation, revue des processus.  
 
 **Supervision et réponse**  
-_ analyse d’événements de sécurité dans SIEM, XDR, firewalls et investigation des alertes.  
+_ Analyse d’événements de sécurité dans SIEM, XDR, firewalls et investigation des alertes.  
 
 **Audits et durcissement**  
 _ Audit de sécurité et application des contre-mesures adaptées, sur annuaire Active Directory, sur terminaux (systèmes Windows et Linux). 
 
 **Veille et renseignement**  
-_ Mise en place d’un service de threat intelligence et suivi des vulnérabilités.  
+_ Mise en place d’un service de threat intelligence et du suivi des vulnérabilités.  
 
 **Déploiement sécurisé**  
 _ Mise en œuvre d’infrastructures durcies à l’état de l’art (stockage, sauvegardes, réseaux).  
