@@ -1,5 +1,11 @@
 ### Soft skills
 
+**Leardership opérationnel** — je fédère et coordonne les équipes en contexte de tension.  
+&nbsp;&nbsp;Je prends des décisions rapides et argumentées et garde mon sang froid en situation de crise.  
+&nbsp;&nbsp;Je hiérarchise les priorités selon les enjeux et les risques, en m'appuyant sur les plans établis.  
+
+**Vision stratégique et gouvernance** - je lie la technique à la gouvernance et sur la documentation (PSSI) et la conformité.  
+
 **Esprit d’analyse** — je comprends rapidement une alerte ou un code suspect.  
 
 **Curiosité technique** — j’explore, teste, et cherche des vulnérabilités.  
