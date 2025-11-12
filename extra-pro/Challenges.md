@@ -1,11 +1,19 @@
 
-## Root‑Me — Challenges & Write‑ups
+## Challenges SSI
 
 ### Statut & profils
 
-* **Profil Root‑Me** : *(lien ici)*
+* **Profil Root‑Me** : *tux9*
 * **Total résolus** : **XXX**
-* Catégories fortes : Web‑Server, App‑Script, Forensic, Crypto
+  
+* Nombre de challenges flag par catégories :
+    
+  App‑Script :   
+  Cryptanalyse :  
+  Forensic :  
+  Programmation :  
+  Web-Client :   
+  Web-Serveur :  
 
 > **Mise en avant** : listez **5–10** challenges représentatifs avec *le skill appris* et *la technique clé*. Liez vos write‑ups.
 
