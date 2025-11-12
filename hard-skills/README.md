@@ -12,7 +12,7 @@
 
 **Élaboration de documents** — cartographies fonctionnelles et applicatives, modélisation des systèmes.
 
-**Gouvernance documentaire** — révision des PGSSI, SMSI, PSSI, PCAi, PRAi, procédures d’onboarding/offboarding, cadrages, CDC, contrats SLA.    
+**Gouvernance documentaire** — révision des PGSSI, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cadrages, CDC, contrats SLA. 
 
 **Gestion de crise cyber** — management et conduite technique en incident, organisation et animation d’exercices de gestion de crise.  
 
