@@ -26,9 +26,9 @@ _ Révision des PGSSI, PGCC, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cad
 _ En amont, évaluation de la maturité, conduite du changement, propositions d'orientations cyber.  
 _ Conception des documents et d'une infrastructure fonctionnelle, maintenus hors ligne.  
 _ Pilotage de la sensibilisation et des exercices de gestion de crises d'origine cyber (gouvernance).  
-_ Pendant, et propose la prise de décisons, pilotage des actions d'équipes (analystes cyber, administrateurs et techniciens systèmes & réseaux).  
+_ Pendant, propose/prends décisons, déclare aux autorités, pilote actions d'équipes (analystes cyber, administrateurs/techniciens systèmes/réseaux).  
 _ Analyses forensic, chemins d'attaque à corriger, fixer le périmètre compromis.  
-_ Apporte les éléments amenant à la sortie de crise.  
+_ Communique et apporte les éléments amenant à la sortie de crise.  
 _ En sortie, vérifie les systèmes pour éviter la survenue d'une sur-crise. Forensic approfondit par l'analyse la mémoire volatile et stockée.       
 _ Construction et présentation du retex à chaud.  
 _ Après, construction et présentation du retex à froid, capitalisation.  
