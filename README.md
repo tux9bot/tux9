@@ -8,30 +8,56 @@
 
 Passionné de cybersécurité (2 ans d’admin système → reconversion SSI). 6 mois d’étude intensive : **100+ CTF résolus**, **10+ projets publiés**, participation active au Bug Bounty. Je cherche un poste **Junior Security Analyst / Pentester**.
 
-**Hard skillss** 
-- comprendre la menace, manager des équipes opérationnelles et les conduire techniquement en situation de crise.
-- conduire les équipes pendant build et run liés aux incidents de sécurité, capitaliser sur ses expériences.
-- tenir le programme de sensibilisation cyber des collaborateurs (exercices de phishing et de gestion de crise)
-- préparer les équipes aux certifications sur le volet sécurité du SI et cyber.
-- analyser les risques ainsi que les impacts (par ex. sur les données personnelles), les menaces et les attaques.
-- évaluer la maturité à gérer une crise d'origine cyber, organiser les exercice de gestion de crise
-- auditer la sécurité d'un SI en constante évolution, appliquer les contre-mesures adaptées.
-- deployer des architectures (fonctionnelles, de stockage, et de sauvegardes) sécurisées car durcies à l'état de l'art.
-- assurer le durcissement système des terminaux (Windows et Linux) et de l'annuaire active directory (tiering, cycle d'amélioration continu SSI).
-- mettre en œuvre un service de veille et de renseignement et d'intelligence de la menace (CTI).
-- acquérir une expertise technique élevée en approfondissant mes connaissances.
-- participer aux opérations de recherche fondamentale sur fond de SSI.
 
 **Soft skills** 
 - Esprit d’analyse, car je comprend rapidement une alerte ou un code suspect.
 - Curiosité technique, car j'explore, teste, et cherche des vulnérabilités.
 - Résilience et patience, j'ai l'habitude d'investigations rapides et longues.
-Esprit critique → ne pas se fier à la première hypothèse.
-Travail en équipe → SOC, pentest, projets collaboratifs
-Pédagogie / vulgarisation → expliquer les risques aux non-techniques
-Éthique → respecter la confidentialité, les chartes de test, la loi
+- Esprit critique, car je ne m'arrête pas à la première hypothèse.
+- Travail en équipe, j'ai la capacité à gérer une équipe et des projets collaboratifs.
+- Pédagogue, je sais expliquer les risques aux non-techniques.
+- Méthodique et rigoureux par tableaux de bord, j'accentue une sécurité d'aujourd'hui et pour demain.
+- Éthique, je me tiens à respecter mon périmètre, la confidentialité et le cadre.
+
+
+**Hard skills cybersécurité** 
+- piloter la sécurité dans le cycle de vie des projets.
+- créer un espace de confiance pour la protection de l'information dans les projets.
+- comprendre la menace, manager des équipes opérationnelles et les conduire techniquement en situation de crise.
+- conduire les équipes pendant build et run liés aux incidents de sécurité, capitaliser sur ses expériences.
+- tenir le programme de sensibilisation cyber des collaborateurs (exercices de phishing et de gestion de crise).
+- préparer les équipes aux certifications sur le volet sécurité du SI et cyber.
+- analyser les risques ainsi que les impacts (par ex. sur les données personnelles), les menaces et les attaques.
+- évaluer la maturité à gérer une crise d'origine cyber, organiser les exercice de gestion de crise
+- auditer la sécurité d'un SI et de ses réseaux, appliquer les contre-mesures adaptées.
+- analyser les scénarios d'attaque dans SIEM/XDR/FW/systèmes/codes/binaires.
+- deployer des architectures (infrastructures fonctionnelles, de stockage, et de sauvegardes) sécurisées car durcies à l'état de l'art.
+- assurer le durcissement système des terminaux (Windows et Linux) et de l'annuaire active directory.
+- mettre en œuvre un service de veille et de renseignement et d'intelligence de la menace.
+- documenter et tenir à jour les politiques (PGSSI, SMSI, PSSI, rétention des données personnelles, onbording-outbording, stockage, CDC)
+- élaborer les cadrages, cahiers techniques, le document d'architecture technique avec matrice des flux, manuel d'exploitation, PCAi, PRAi.
+- participer à la R&D et aux opérations de recherche fondamentale en lien avec la SSI.
+
+- administrer l'annuaire active directory, les postes et serveurs sous Windows et linux, les switch L2/L3 et routeurs/FW/SD-Wan.
+- languages : Python, PS, SQL, JS, bash, C, C++, HTML, Arduino, Solidity.
+- acquérir une expertise technique élevée sur des nouveaux sujets en approfondissant mes connaissances.
+
+**Hard skills cyberdefense**
+- forensic à but de comprendre la situation, de connaître le périmètre impacté, et de récupérer des preuves. 
+- recherches stéganographiques (images, vidéos, audio), analyse/modélisation des chemins d'attaque, cryptanalyse, analyse de code jusqu'à l'assembleur. 
+- develloper des outils (indicateurs, détection d'anomalies par IA crée par ML).
 
 **Outils**
+
+
+**Solutions**
+ESET, Trend, Fortinet (FMG & FA), FortiGate, FortiClient, Cisco, Dell, PFsense, OpenVPN.
+TeamsPhone, VOIP, IPBX Xivo, Softphone Zoiper. vCenter, Veeam backup, vSphere Esxi,
+Hyper-V, vSAN, Docker, Ansible. PRTG, Nagios, Cacti. Splunk, Graylog, OSSIM, ELK, Syslog, Snort, Squid et DsnSec. 
+PowerBI.
+
+
+
 
 ---
 
