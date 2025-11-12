@@ -2,8 +2,10 @@
 
 ### Gouvernance et Pilotage SSI
 
-**Pilotage sécurité projet**  
+**Pilotage sécurité projets**  
+_ Participation aux proposition des choix de solutions.   
 _ Intégration de la SSI dans tout le cycle de vie des projets.  
+_ Suivi de projets, gestion administrtive et financiere de projets.   
 
 **Gouvernance et espace de confiance**  
 _ Protection de l’information au sein des projets et coordination entre les parties prenantes.  
@@ -42,7 +44,7 @@ _ Mise en œuvre d’infrastructures durcies à l’état de l’art (stockage, 
 _ Active Directory, Windows, Linux, des SW L2/L3, FW (FortiManager, FortiAnalyser), FW en SD-WAN et de sclients VPN.
 
 **Développement sécurité**  
-_ Maîtrise de Python, Bash, PowerShell, SQL, JavaScript, C/C++ et Solidity (smart-contract/blockchain).
+_ Maîtrise de Python, Bash, PowerShell, SQL, JavaScript, C/C++ et Solidity (smart-contract/blockchain).  
 _ Capacités à concevoir de zéro un modèle d'IA destinée à détecter les anomalies pour informer le SIEM, a l'aide d'algorithmes et d'apprentissage.
 
 **R&D sécurité**  
