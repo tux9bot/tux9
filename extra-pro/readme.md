@@ -9,7 +9,7 @@ Expériences extra-professionelles
 &nbsp;&nbsp;Sapeur SPV SDIS95 1996-2004  
 &nbsp;&nbsp;Jeune SPV SDIS95_G1 1991-1995  
 
-Participations marquantes
+Participations marquantes  
 &nbsp;&nbsp;Intervention sur feux de forêt/brousse  
 &nbsp;&nbsp;Intervention inondation Sorgues, Saint-Affique 2014  
 &nbsp;&nbsp;Secours piste sur circuit motocross championnat de France, La Capelle-Marival 2013-2014  
