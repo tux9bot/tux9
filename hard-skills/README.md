@@ -6,6 +6,8 @@
 _ Participation aux proposition des choix de solutions.   
 _ Intégration de la SSI dans tout le cycle de vie des projets.  
 _ Suivi de projets, gestion administrtive et financiere de projets.   
+_ Révision du plan de sauvegarde (données utilisateurs et applicatives, données logiciels).
+_ Révission, validation et diffusion du plan de secours.
 
 **Gouvernance et espace de confiance**  
 _ Protection de l’information au sein des projets et coordination entre les parties prenantes.  
