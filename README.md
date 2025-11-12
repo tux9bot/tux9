@@ -9,27 +9,31 @@
 Passionné de cybersécurité, consultant SSI depuis 10/2025, dernièrement 3 ans de gestion de projets SSI.
 Reprise d'études supérieures CYBER de 2021 à 2025 : L2, L3, M1, M2, et Ingénieur), auparavant test startup (devApk), sur un fond de 10 ans d'admin/tech sys/réseaux.  
 
-*3 projets publiés** 
-Réalisation d'une attaque de type supercharging (sur superchargeur de véhicule éléctrique) par modèle IA non supervisé avec apprentisage, appels LLM et traiement du RAG. [07/2025] 
-Réalisation d'un système de détection de l'attaque d'overcharging qui permet d'alimenter un SIEM. [07/2025]
-Réalisation d'un application mobile favorisant la sécurité des victimes et des intervenants ainsi qu'un gain de temps, lors d'interventions de secours sur véhicules automobiles. Périmètre UE. [04/2016]  
-Ecriture d'un livre titré "Accouchement innopiné interhospitalier". [07/2008] 
+**3 projets publiés** 
+&nbsp;&nbsp;Réalisation d'une attaque de type supercharging (sur superchargeur de véhicule éléctrique) par modèle IA non supervisé avec apprentisage, appels LLM et traiement du RAG. [07/2025] 
+&nbsp;&nbsp;Réalisation d'un système de détection de l'attaque d'overcharging qui permet d'alimenter un SIEM. [07/2025]
+&nbsp;&nbsp;Réalisation d'un application mobile favorisant la sécurité des victimes et des intervenants ainsi qu'un gain de temps, lors d'interventions de secours sur véhicules automobiles européens. [04/2016]  
+&nbsp;&nbsp;Ecriture d'un livre titré "Accouchement innopiné interhospitalier". [07/2008] 
 
-*10+ projets non publiés** 
-Convergence d'annuaires AD en un environnmeent durci à l'état de l'art (09/2025)
+*6 projets récents non publiés** 
+&nbsp;&nbsp;Convergence d'annuaires AD en un environnmeent durci à l'état de l'art (09/2025).
+&nbsp;&nbsp;Téléphonie unifiée (Teams/DECT fixe/mobile) (08/2024).
+&nbsp;&nbsp;SD-WAN migrations de multiples BU (02/2024).
+&nbsp;&nbsp;SAP ERP déploiement sur une BU 10M€ (01/2024).
+&nbsp;&nbsp;Renouvellement infrastructure réseaux/systèmes d'une BU (12/2023).
+&nbsp;&nbsp;Pilotage XDR ESET (09/2022-08/2024).
 
-**230+ Challenges de sécurité résolus**, participation active au Bug Bounty. Je cherche un poste **Junior Security Analyst / Pentester**.
+**230+ Challenges de sécurité résolus**, participation active au Bug Bounty.
+
+** passif secouriste**
+Sergent SPV SDIS12 2009-2020
+Sapeur  SPV SDIS95 1996-2004
+Chef d'intervention CRF95-CRF75-CRF12-CRF15-ADPC46 2005-2017
+Directeur CRF95 Pontoise 2000-2002
+Equipier CRF95-CRF75 1999-2007
+Jeune SPV SDIS95 Osny 1991-1995
 
 
-**Soft skills** 
-- Esprit d’analyse                    (je comprend rapidement une alerte ou un code suspect).
-- Curiosité technique                 (j'explore, teste, et cherche des vulnérabilités).
-- Résilience et patience              (j'ai l'habitude d'investigations rapides et longues).
-- Esprit critique                     (je ne m'arrête pas à la première hypothèse).
-- Travail en équipe                   (j'ai la capacité à gérer une équipe et des projets collaboratifs).
-- Pédagogue                           (je sais expliquer les risques aux non-techniques).
-- Méthodique par tableaux de bord     (j'accentue une sécurité d'aujourd'hui et pour demain).
-- Éthique                             (je respecte mon périmètre, la confidentialité et le cadre).
 
 **Hard skills cybersécurité et cyberdéfense**
 Gouvernance et pilotage SSI
