@@ -6,13 +6,13 @@
 
 **Gouvernance et espace de confiance** — protection de l’information au sein des projets et coordination entre les parties prenantes.  
 
-**Préparation et accompagnement** — formation et encadrement des équipes vers les certifications SSI et la mise en œuvre de programmes cyber.  
+**Préparation et accompagnement** — formation des équipes vers les certifications SSI et la mise en œuvre de programmes cyber.  
 
-**Gestion des risques et impacts** — conformité réglementaire, analyses des risques, des menaces, des attaques et de la rétention des données personnelles.  
+**Gestion des risques et impacts** — conformité réglementaire, analyses des risques, des menaces, des attaques et d'impacts de rétention des données personnelles.  
 
-**Élaboration de documents** — cartographies fonctionnelles et applicatives, modélisation des systèmes, cadrages techniques, matrices de flux, PCAi, PRAi et manuels d’exploitation.  
+**Élaboration de documents** — cartographies fonctionnelles et applicatives, modélisation des systèmes.
 
-**Gouvernance documentaire** — gestion et mise à jour des référentiels PGSSI, SMSI, PSSI, politiques de rétention, procédures d’onboarding/offboarding et cahiers des charges.  
+**Gouvernance documentaire** — révision des PGSSI, SMSI, PSSI, PCAi, PRAi, procédures d’onboarding/offboarding, cadrages, CDC, contrats SLA.    
 
 **Gestion de crise cyber** — management et conduite technique en incident, organisation et animation d’exercices de gestion de crise.  
 
