@@ -24,12 +24,11 @@ _ Révision des PGSSI, PGCC, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cad
 
 **Gestion de crise cyber**  
 _ Evaluation de la maturité, management de la conduite du changement, création/organisation/retex d’exercices de gestion de crise.  
+_ Expert en forensic qui analyse les chemins d'attaque à corriger, qui collecte le périmètre compromis et qui analyse la mémoire volatile et stockée.    
+_ Anticipation par le pilotage des campagnes de sensibilisation (tous) et les exercices de gestion de crises d'origine cyber (gouvernance).  
 
 **Supervision et réponse**  
 _ analyse d’événements de sécurité dans SIEM, XDR, firewalls et investigation des alertes.  
-
-**Sensibilisation et entraînement**  
-_ Conception et pilotage de campagnes de phishing et d’exercices de crise.  
 
 **Audits et durcissement**  
 _ Audit de sécurité et application des contre-mesures adaptées, sur annuaire Active Directory, sur terminaux (systèmes Windows et Linux). 
@@ -48,7 +47,7 @@ _ Maîtrise de Python, Bash, PowerShell, SQL, JavaScript, C/C++ et Solidity (sma
 _ Capacités à concevoir de zéro un modèle d'IA destinée à détecter les anomalies pour informer le SIEM, a l'aide d'algorithmes et d'apprentissage.
 
 **R&D sécurité**  
-_ Expert en chiffrement, en cryptanalyse (binaires, codes).  
+_ Expertise en chiffrement, en cryptanalyse (binaires, codes).  
 _ Apport de regards et de propositions innovantes en SSI.  
 
 
