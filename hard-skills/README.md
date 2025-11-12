@@ -39,10 +39,11 @@ _ Mise en place d’un service de threat intelligence et suivi des vulnérabilit
 _ Mise en œuvre d’infrastructures durcies à l’état de l’art (stockage, sauvegardes, réseaux).  
 
 **Administration**  
-_ Active Directory, Windows, Linux, des SW L2/L3, FW (FortiManager, FortiAnalyser), gestion FW en SD-WAN et de sclients VPN.
+_ Active Directory, Windows, Linux, des SW L2/L3, FW (FortiManager, FortiAnalyser), FW en SD-WAN et de sclients VPN.
 
 **Développement sécurité**  
-_ Maîtrise de Python, Bash, PowerShell, SQL, JavaScript, C/C++ et Solidity pour l’automatisation, l’analyse et la détection.  
+_ Maîtrise de Python, Bash, PowerShell, SQL, JavaScript, C/C++ et Solidity (smart-contract/blockchain).
+_ Capacités à concevoir de zéro un modèle d'IA destinée à détecter les anomalies pour informer le SIEM, a l'aide d'algorithmes et d'apprentissage.
 
 **R&D sécurité**  
 _ Expert en chiffrement, en cryptanalyse (binaires, codes).  
