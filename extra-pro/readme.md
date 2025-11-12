@@ -8,4 +8,4 @@ Expériences extra-professionelles
 &nbsp;&nbsp;Directeur CRF95 Pontoise 2000-2002  
 &nbsp;&nbsp;Equipier CRF95 1999-2004  
 &nbsp;&nbsp;Sapeur SPV SDIS95 1996-2004  
-&nbsp;&nbsp;Jeune SPV SDIS95 COG1 1991-1995    
+&nbsp;&nbsp;Jeune SPV SDIS95-G1 1991-1995    
