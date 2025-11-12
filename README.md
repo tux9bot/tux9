@@ -29,19 +29,19 @@ Passionné de cybersécurité (2 ans d’admin système → reconversion SSI). 6
 
 ```
 Portfolio/
-├─ README.md                # Page d’accueil
-├─ hard-skills
-├─ soft-skills
-├─ expérience
-├─ formation
-├─ projets/
-│  ├─ Projet 1 (ex : lab OWASP)
-│  ├─ ad-attack-defense/    # Projet 2 (ex : AD attack path)
-│  ├─ network-threat-hunt/  # Projet 3 (ex : Hunt ELK)
+├─ README.md                # Page d’accueil principale (intro + sommaire + liens)
+├─ hard-skills              # Compétences techniques détaillées
+├─ soft-skills              # Qualités humaines et management
+├─ expérience               # Expériences professionnelles
+├─ formation                # Diplômes, formations, certifs
+├─ projets/                 # Démonstrations et labos
+│  ├─ Projet 1 (lab OWASP)
+│  ├─ ad-attack-defense/
+│  ├─ network-threat-hunt/
 │  └─ ...
 ├─ challenges de sécurité réalisés/
-│  ├─ writeups/             # Vos write-ups (un par challenge)
-│  └─ index.md              # Sommaire + stats
+│  ├─ writeups/
+│  └─ index.md
 └─ assets/                  # images, schémas, captures
 ```
 
