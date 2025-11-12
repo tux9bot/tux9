@@ -10,21 +10,19 @@
 
 **Gestion des risques et impacts** — conformité, analyses des risques, des menaces, des attaques et d'impacts de rétention des DP.  
 
-**Élaboration de documents** — cartographies fonctionnelles et applicatives, modélisation des systèmes.
+**Documentation technique** — cartographies fonctionnelles et applicatives, modélisation des systèmes.
 
-**Gouvernance documentaire** — révision des PGSSI, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cadrages, CDC, contrats SLA. 
+**Gouvernance documentaire** — révision des PGSSI, PGCC, SMSI, PSSI, PCAi, PRAi, onboarding/offboarding, cadrages, CDC, contrats SLA. 
 
-**Gestion de crise cyber** — management et conduite technique en incident, organisation et animation d’exercices de gestion de crise.  
+**Gestion de crise cyber** — évaluation de la maturité, management de la conduite du changement, organisation/animation/retex d’exercices de gestion de crise.  
 
 **Supervision et réponse** — analyse d’événements de sécurité dans SIEM, XDR, firewalls et investigation des alertes.  
 
 **Sensibilisation et entraînement** — conception et pilotage de campagnes de phishing et d’exercices de crise.  
 
-**Audit et durcissement** — évaluation de la sécurité des postes, serveurs et annuaires Active Directory, application des contre-mesures adaptées.  
+**Audit et durcissement** — audit de sécurité et application des contre-mesures adaptées, sur postes, serveurs et annuaire Active Directory.  
 
 **Veille et renseignement** — mise en place d’un service de threat intelligence et suivi des vulnérabilités.  
-
-**Architecture et documentation** — conception et maintien des référentiels PSSI, SMSI, PGSSI, PCA/PRA et matrices des flux.  
 
 **Déploiement sécurisé** — mise en œuvre d’infrastructures durcies à l’état de l’art : stockage, sauvegardes, réseaux et environnements virtualisés.  
 
