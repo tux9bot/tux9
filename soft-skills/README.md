@@ -9,22 +9,19 @@
 **Pilotage de la sécurité** - je renseigne le dossier de sécurité des projets en spécifiant les besoins de sécurité puis mesure   
 &nbsp;&nbsp;l'impact des projets sur l'activité et en extrait les risques ainsi que les solutions à mettre mettre en place,  
 &nbsp;&nbsp;puis j'annonce les risques non couverts. 
-&nbsp;&nbsp;J'ai pour habitude de viser le cadre méthodologique "Sécurité et développement" composé de la cible de sécurité, du plan d'assurance de sécurité, du dossier de tests de sécurité, du dossier d'analyses de vulnérabilités et du manuel de sécurité des utilisateurs et administrateurs. J'apprécie lire le contrat de service pour prendre connaissance des informations telles que les conditions de remontées en cas d'incident, les plages d'astreinte, les arrêts programmés et le taux de disponibilité du système.  
+&nbsp;&nbsp;J'ai pour habitude de viser le cadre méthodologique "Sécurité et développement" composé de la cible de sécurité,  
+&nbsp;&nbsp;du plan d'assurance de sécurité, du dossier de tests de sécurité, du dossier d'analyses de vulnérabilités et  
+&nbsp;&nbsp;du manuel de sécurité des utilisateurs et administrateurs. J'apprécie lire les contrats de service externes,  
+&nbsp;&nbsp;pour prendre connaissance des informations telles que les conditions de remontées en cas d'incident, les plages  
+&nbsp;&nbsp;d'astreinte, les arrêts programmés et le taux de disponibilité du système ainsi que de m'assurer du respect du cadre commun SSI.  
 
-**Esprit d’analyse** — je comprends rapidement une alerte ou un code suspect.  
+**Travail en équipe** — j'apprécie gérer une équipe et participer à des projets collaboratifs. Appliquer des principes précis en matière  
+&nbsp;&nbsp;de gestion des habilitations, journaliser systématiquement les actions des administrateurs et maîtriser l'usage d'outils d'inverstigation,   
+&nbsp;&nbsp;sont indispensables et j'apprécie amener leurs justifications. Pédagogue, je sais expliquer les risques aux non-techniques.  
 
-**Curiosité technique** — j’explore, teste, et cherche des vulnérabilités.  
+**Esprit d’analyse et critique** — je comprends rapidement une alerte ou un code suspect, je suis curieux de la technicité employée alors j’explore,  
+teste, et cherche des vulnérabilités. Je suis résilient et patient, surement faute à avoior l’habitude d’investigations rapides comme longues, je ne m’arrête pas à la première hypothèse.  
 
-**Résilience et patience** — j’ai l’habitude d’investigations rapides et longues.  
+**Relation de confiance** - je suis calme et travaille discretement en respectant le cadre. Éthique je suis. Aussi, je respecte mon périmètre, la confidentialité et le cadre dans lequel j'évolue. Méthodique, je m'appuie sur mes tableaux de bords tournés vers une sécurité d’aujourd’hui et pour demain.    
 
-**Esprit critique** — je ne m’arrête pas à la première hypothèse.  
 
-**Travail en équipe** — je sais gérer une équipe et des projets collaboratifs. 
-
-**Relation de confiance** - je travaille discretement et en respectant le cadre.
-
-**Pédagogue** — je sais expliquer les risques aux non-techniques.  
-
-**Méthodique par tableaux de bord** — j’accentue une sécurité d’aujourd’hui et pour demain.  
-
-**Éthique** — je respecte mon périmètre, la confidentialité et le cadre.  
