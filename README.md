@@ -27,61 +27,7 @@ Reprise d'études supérieures CYBER de 2021 à 2025 : L2, L3, M1, M2, et Ingén
 
 ** passif secouriste 1991-2020**
 
-**Hard skills cybersécurité et cyberdéfense**
-Gouvernance et pilotage SSI
-- Pilotage sécurité projet            (intégration SSI dans tout le cycle de vie).
-- Gouvernance et espace de confiance  (protection de l’information dans les projets).
-- Préparation et accompagnement       (des équipes aux certifications SSI et programmes cyber).
-- Gestion des risques et impacts      (conformité, et analyses (de risques, des impacts, des menaces, des attaques) et de la rétention des données personnelles stockées).
-- Élaboration de documents            (cartographies fonct./app, modélisation des systèmes, cadrages, matrice des flux, PCAi, PRAi, manuels d’exploitation).
-- Gouvernance documentaire            (PGSSI, SMSI, PSSI, politiques de rétention, onboarding/offboarding, stockage, cahiers des charges).
-- Gestion de crise cyber              (management et conduite technique en incident, organisation d'exercice de gestion de crise cyber).
-- Supervision et réponse              (analyse SIEM/XDR/FW, investigation des alertes).
-- Sensibilisation et entraînement     (campagnes phishing, exercices de crise).
-- Audit et durcissement               (postes, serveurs, Active Directory).
-- Veille et renseignement             (threat intelligence, suivi vulnérabilités).
-- Architecture et documentation       (PSSI, SMSI, PGSSI, PCA/PRA, matrice des flux).
-- Déploiement sécurisé                (infrastructure durcies, stockage, sauvegardes, réseaux).
-- Administration                      (AD, Windows/Linux, réseau L2/L3, SD-WAN, VPN).
-- Développement sécurité              (Python, Bash, PS, SQL, JS, C/C++, Solidity).
-- R&D sécurité                        (cryptanalyse, analyse code, innovation SSI).
 
-Gestion de crise et continuité
-_ Gestion de crise cyber              (pilotage et conduite technique en incident, coordination des équipes).
-_ Organisation d’exercices            (cyber-attaque, perte de service, fuite de données).
-_ Évaluation de la maturité           (à gérer une crise d’origine cyber).
-_ Capitalisation post-incident        (retours d’expérience, amélioration continue).
-
-Audit, supervision et réponse
-_ Supervision et détection            (analyse SIEM/XDR/FW, investigation des alertes).
-_ Audit de sécurité                   (application des contre-mesures adaptées).
-_ Analyse des scénarios d’attaque     (corrélation logs systèmes, codes, binaires).
-_ Sensibilisation et entraînement     (campagnes phishing, simulations, exercices de réponse).
-_ Mise en œuvre d’une veille          (threat intelligence, vulnérabilités).
-
-Architecture et durcissement
-_ Déploiement sécurisé                (infrastructures durcies à l’état de l’art : stockage, sauvegardes, réseaux).
-_ Durcissement système des terminaux  (Windows, Linux) et de l’annuaire Active Directory.
-_ Administration et exploitation      (AD, postes et serveurs Windows/Linux, switchs L2/L3, routeurs/FW/SD-WAN, VPN).
-_ Participation à la R&D et recherche fondamentale en lien avec la SSI.
-
-Développement et automatisation
-_ Développement sécurité (Python, Bash, PowerShell, SQL, JavaScript, C/C++, HTML, Arduino, Solidity).
-_ Automatisation de tâches de sécurité (scripts, outils, intégration CI/CD).
-_ Conception d’outils d’analyse et de détection (indicateurs, IA/ML pour anomalies).
-_ Acquisition continue de compétences techniques (montée en expertise sur nouveaux sujets).
-
-Cyberdéfense et investigation
-_ Forensic (identifier le périmètre impacté, récupérer et préserver les preuves).
-_ Recherches stéganographiques (images, vidéos, audio) et modélisation des chemins d’attaque.
-_ Cryptanalyse, analyse de code et rétro-ingénierie jusqu’à l’assembleur.
-_ Threat hunting et corrélation dans SIEM/XDR (ELK, Splunk, Graylog, OSSIM).
-
-Solutions et Outils
-_ Sécurité & Réseaux : ESET · Trend Micro · Fortinet (FMG, FA, FortiGate, FortiClient) · Cisco · Dell · PFsense · OpenVPN
-_ Virtualisation & DevOps : vCenter · Veeam Backup · vSphere ESXi · Hyper-V · vSAN · Docker · Ansible
-_ Supervision & Logs : PRTG · Nagios · Cacti · Splunk · Graylog · OSSIM · ELK · Syslog · Snort · Squid · DNSsec
-_ Collaboration & Reporting : TeamsPhone · VOIP/IPBX Xivo · Softphone Zoiper · PowerBI
 
 
 
@@ -91,19 +37,19 @@ _ Collaboration & Reporting : TeamsPhone · VOIP/IPBX Xivo · Softphone Zoiper �
 
 ```
 Portfolio/
-├─ README.md                # Page d’accueil
-├─ hard-skills
-├─ soft-skills
-├─ expérience
-├─ formation
-├─ projets/
-│  ├─ Projet 1 (ex : lab OWASP)
-│  ├─ ad-attack-defense/    # Projet 2 (ex : AD attack path)
-│  ├─ network-threat-hunt/  # Projet 3 (ex : Hunt ELK)
+├─ README.md                # Page d’accueil principale (intro + sommaire + liens)
+├─ hard-skills              # Compétences techniques détaillées
+├─ soft-skills              # Qualités humaines et management
+├─ expérience               # Expériences professionnelles
+├─ formation                # Diplômes, formations, certifs
+├─ projets/                 # Démonstrations et labos
+│  ├─ Projet 1 (lab OWASP)
+│  ├─ ad-attack-defense/
+│  ├─ network-threat-hunt/
 │  └─ ...
 ├─ challenges de sécurité réalisés/
-│  ├─ writeups/             # Vos write-ups (un par challenge)
-│  └─ index.md              # Sommaire + stats
+│  ├─ writeups/
+│  └─ index.md
 └─ assets/                  # images, schémas, captures
 ```
 
