@@ -6,7 +6,7 @@
 &nbsp;&nbsp;Je hiérarchise les priorités selon les enjeux et les risques, en m'appuyant sur les plans établis.  
 
 * **Vision stratégique et gouvernance**   
-  &nbsp;&nbsp;je lie la technique à la gouvernance et sur la documentation (PSSI) et la conformité.  
+  &nbsp;&nbsp;je lie la technique à la gouvernance (GRC).  
 
 * **Pilotage de la sécurité**     
 &nbsp;&nbsp;Je renseigne le dossier de sécurité des projets en spécifiant les besoins de sécurité puis mesure   
