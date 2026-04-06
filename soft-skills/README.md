@@ -1,7 +1,7 @@
 ### Soft skills
 
 * **Leardership opérationnel**
-&nbsp;&nbsp;Je fédère et coordonne les équipes en contexte nominale comme sous la tension.  
+&nbsp;&nbsp;Je fédère et coordonne les équipes en contexte nominal comme sous tension.  
 &nbsp;&nbsp;Je prends des décisions rapides et argumentées et garde mon sang froid en situation de crise.  
 &nbsp;&nbsp;Je hiérarchise les priorités selon les enjeux et les risques, en m'appuyant sur les plans établis.  
 
